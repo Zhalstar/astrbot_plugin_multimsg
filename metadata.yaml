@@ -1,0 +1,7 @@
+name: astrbot_plugin_multimsg
+display_name: 多类型消息发送
+desc: 为bot发送多种类型消息提供便捷命令，包括markdown，猜拳，转骰子，发表情，音乐卡片，推荐卡片，转发，合并转发，@全体成员...
+help: 略
+version: v1.0.5
+author: 饰乐
+repo: https://github.com/Zhalstar/astrbot_plugin_multimsg
